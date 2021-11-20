@@ -1,0 +1,15 @@
+{
+  "name": "design-tokens-demo",
+  "version": "3.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/4j7m47vlm4",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@mui/x-data-grid": "4.0.2",
+    "lodash": "4.17.21",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
